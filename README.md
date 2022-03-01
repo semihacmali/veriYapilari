@@ -1,0 +1,2 @@
+# veriYapilari
+Python, Basics
